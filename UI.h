@@ -1,4 +1,3 @@
-
 #include "room.h"
 void main_menu(RoomList *list);
 void list_rooms(RoomList *list);
